@@ -1,0 +1,24 @@
+{
+    "blogs": [
+    {
+        "title": "Tech city",
+        "body":"Getting into tech was hard as an african but what was more worse was buillding a tech city.",
+        "author":"Joshua",
+        "id": 1
+    },
+
+    {
+        "title": "AI everything",
+        "body":"Getting into tech was hard as an african but what was more worse was buillding a tech city.",
+        "author":"John",
+        "id": 2
+    },
+    
+    {
+        "title": "Why Program",
+        "body":"Getting into tech was hard as an african but what was more worse was buillding a tech city.",
+        "author":"John",
+        "id": 3
+    }
+]
+}
